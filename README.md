@@ -32,7 +32,7 @@
 
 #### 安装
 
-环境 java（v17）maven（v3）
+环境 go（v1.19）
 
 更改数据库连接url、用户名、密码信息，运行table.sql文件
-运行jar包或运行`mvn install`
+运行main.exe或`go build main.go`
